@@ -15,7 +15,7 @@ Use [SEO Analysis & Website Review by WooRank](https://chrome.google.com/webstor
 
 ### Site meta
 
-**Note:** Refer to header [example](/wp-header-sample.html) for reference
+**Note:** Refer to header [example](/docs/wordpress/header-sample.html) for reference
 
 ### Page meta
 
